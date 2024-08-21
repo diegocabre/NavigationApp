@@ -1,5 +1,8 @@
 import 'react-native-gesture-handler';
 
+// Usa PagerView en tu código
+
+
 import { NavigationContainer } from "@react-navigation/native";
 import { 
   //StackNavigator,
